@@ -1,9 +1,11 @@
 # Sample-Coding-Projects
 Examples of my best work thus far. All written in C++.
 
-RotateBST.h -> a rotating BinarySearchTree header, used to help implement Splay Tree.
+rotateBST.h -> a rotating BinarySearchTree header, used to help implement Splay Tree.
 
-SplayTree.h -> Splay Tree header. 
+splayTree.h -> Splay Tree header. 
 
-BinarySearchTree.h -> functioning binary search tree header.
+binarySearchTree.h -> functioning binary search tree header.
+
+quickSort.h -> header file for my own implementation of quick sort.
 
